@@ -1,13 +1,11 @@
 <div align="center">
   
-# 🤟 Real-Time Hand Gesture to Sentence System
+# 🍓 Raspberry Pi Controller
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/)
-[![MediaPipe](https://img.shields.io/badge/MediaPipe-Gesture_Recognizer-orange.svg)](https://mediapipe.dev/)
-[![Flask](https://img.shields.io/badge/Flask-Web%20Server-lightgrey)](https://flask.palletsprojects.com/)
-[![Platform](https://img.shields.io/badge/Platform-Laptop%20Webcam-2d7d46.svg)]()
+[![Raspberry Pi](https://img.shields.io/badge/Platform-Raspberry%20Pi-C51A4A.svg)]()
 
-*An AI system that translates hand gestures into meaningful sentences in real-time using your laptop's webcam. Powered by Google's free pre-trained MediaPipe Gesture Recognizer model.*
+*A comprehensive controller system for Raspberry Pi devices, enabling remote management, GPIO control, and sensor integration.*
 
 </div>
 
